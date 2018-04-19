@@ -7,6 +7,7 @@
 
 <p>Once the user selects the category, five recommendations will populate.  The venue names will display, the rating as well as the top review. Users are able to access the venues displayed via the hyperlink in the venue name. </p>
   
+  ![Optional Text](../master/assets/images/perfecthotelone.png)
 
 
 <strong>Authors: Gabi, Nicole and Jocelyn </strong>
